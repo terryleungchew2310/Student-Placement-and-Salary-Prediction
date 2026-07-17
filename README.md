@@ -188,9 +188,8 @@ Student_placemet_prediction.ipynb
 
 Aspiring Data Scientist passionate about Machine Learning, Deep Learning, and AI.
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/terryleungchew2310
 
-LinkedIn: Add your LinkedIn profile here
 
 ---
 
